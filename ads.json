@@ -1,1 +1,18 @@
-{}
+{
+    "Gluu-Flex-Installation-Testing": {
+        "projectName": "Gluu-Flex-Installation-Testing",
+        "description": "Testing out the installation of gluu flex",
+        "type": "community",
+        "author": "BJimmyraja",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/BJimmyraja/Gluu_Installation_Prod_env",
+        "githubUri": "https://github.com/BJimmyraja/Gluu_Installation_Prod_env",
+        "license": "MIT",
+        "lastUpdated": "1697002492029",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
